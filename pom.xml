@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jellyfishmix.com</groupId>
-    <artifactId>sell-eureka</artifactId>
+    <artifactId>sell-eureka-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sell-eureka</name>
     <description>Demo project for Spring Boot</description>
@@ -51,6 +51,7 @@
     </dependencyManagement>
 
     <build>
+        <finalName>sell-eureka-server</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
