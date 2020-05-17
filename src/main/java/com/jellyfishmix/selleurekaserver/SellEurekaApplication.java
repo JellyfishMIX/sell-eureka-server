@@ -1,4 +1,4 @@
-package com.jellyfishmix.com.selleurekaserver;
+package com.jellyfishmix.selleurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
