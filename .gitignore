@@ -31,3 +31,4 @@ build/
 .vscode/
 
 /src/main/resources/application.yml
+/src/main/resources/application-services.yml
