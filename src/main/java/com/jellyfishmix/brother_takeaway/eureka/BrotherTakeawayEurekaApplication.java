@@ -1,4 +1,4 @@
-package com.jellyfishmix.selleurekaserver;
+package com.jellyfishmix.brother_takeaway.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @SpringBootApplication
 @EnableEurekaServer
-public class SellEurekaApplication {
+public class BrotherTakeawayEurekaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SellEurekaApplication.class, args);
+        SpringApplication.run(BrotherTakeawayEurekaApplication.class, args);
     }
 
 }

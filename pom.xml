@@ -8,10 +8,10 @@
         <version>2.2.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.jellyfishmix.com</groupId>
-    <artifactId>sell-eureka-server</artifactId>
+    <groupId>com.jellyfishmix.brother_takeaway</groupId>
+    <artifactId>eureka</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sell-eureka</name>
+    <name>eureka</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -51,7 +51,7 @@
     </dependencyManagement>
 
     <build>
-        <finalName>sell-eureka-server</finalName>
+        <finalName>brother-takeaway-eureka</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
